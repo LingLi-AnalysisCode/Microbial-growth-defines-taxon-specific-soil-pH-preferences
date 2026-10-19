@@ -1,0 +1,179 @@
+Col	Header_Name	Level1_Name	Level2_Name
+1	glycolysis	Metabolism	Carbohydrate metabolism
+2	gluconeogenesis	Metabolism	Carbohydrate metabolism
+3	TCA Cycle	Metabolism	Carbohydrate metabolism
+4	NAD(P)H-quinone oxidoreductase	Metabolism	Energy metabolism
+5	NADH-quinone oxidoreductase	Metabolism	Energy metabolism
+6	Na-NADH-ubiquinone oxidoreductase	Metabolism	Energy metabolism
+7	F-type ATPase	Metabolism	Energy metabolism
+8	V-type ATPase	Metabolism	Energy metabolism
+9	Cytochrome c oxidase	Metabolism	Energy metabolism
+10	Ubiquinol-cytochrome c reductase	Metabolism	Energy metabolism
+11	Cytochrome o ubiquinol oxidase	Metabolism	Energy metabolism
+12	Cytochrome aa3-600 menaquinol oxidase	Metabolism	Energy metabolism
+13	"Cytochrome c oxidase, cbb3-type"	Metabolism	Energy metabolism
+14	Cytochrome bd complex	Metabolism	Energy metabolism
+15	RuBisCo	Metabolism	Energy metabolism
+16	CBB Cycle	Metabolism	Energy metabolism
+17	rTCA Cycle	Metabolism	Energy metabolism
+18	Wood-Ljungdahl	Metabolism	Energy metabolism
+19	3-Hydroxypropionate Bicycle	Metabolism	Energy metabolism
+20	4-Hydroxybutyrate/3-hydroxypropionate	Metabolism	Energy metabolism
+21	pectinesterase	Metabolism	Carbohydrate metabolism
+22	diacetylchitobiose deacetylase	Metabolism	Carbohydrate metabolism
+23	glucoamylase	Metabolism	Carbohydrate metabolism
+24	D-galacturonate epimerase	Metabolism	Carbohydrate metabolism
+25	exo-poly-alpha-galacturonosidase	Metabolism	Carbohydrate metabolism
+26	oligogalacturonide lyase	Metabolism	Carbohydrate metabolism
+27	cellulase	Metabolism	Carbohydrate metabolism
+28	exopolygalacturonase	Metabolism	Carbohydrate metabolism
+29	chitinase	Metabolism	Carbohydrate metabolism
+30	basic endochitinase B	Metabolism	Carbohydrate metabolism
+31	bifunctional chitinase/lysozyme	Metabolism	Carbohydrate metabolism
+32	beta-N-acetylhexosaminidase	Metabolism	Carbohydrate metabolism
+33	D-galacturonate isomerase	Metabolism	Carbohydrate metabolism
+34	alpha-amylase	Metabolism	Carbohydrate metabolism
+35	beta-glucosidase	Metabolism	Carbohydrate metabolism
+36	pullulanase	Metabolism	Carbohydrate metabolism
+37	ammonia oxidation (amo/pmmo)	Metabolism	Energy metabolism
+38	hydroxylamine oxidation	Metabolism	Energy metabolism
+39	nitrite oxidation	Metabolism	Energy metabolism
+40	dissim nitrate reduction	Metabolism	Energy metabolism
+41	DNRA	Metabolism	Energy metabolism
+42	nitrite reduction	Metabolism	Energy metabolism
+43	nitric oxide reduction	Metabolism	Energy metabolism
+44	nitrous-oxide reduction	Metabolism	Energy metabolism
+45	nitrogen fixation	Metabolism	Energy metabolism
+46	hydrazine dehydrogenase	Metabolism	Energy metabolism
+47	hydrazine synthase	Metabolism	Energy metabolism
+48	dissimilatory sulfate < > APS	Metabolism	Energy metabolism
+49	dissimilatory sulfite < > APS	Metabolism	Energy metabolism
+50	dissimilatory sulfite < > sulfide	Metabolism	Energy metabolism
+51	thiosulfate oxidation	Metabolism	Energy metabolism
+52	alt thiosulfate oxidation tsdA	Metabolism	Energy metabolism
+53	alt thiosulfate oxidation doxAD	Metabolism	Energy metabolism
+54	sulfur reductase sreABC	Metabolism	Energy metabolism
+55	thiosulfate/polysulfide reductase	Metabolism	Energy metabolism
+56	sulfhydrogenase	Metabolism	Energy metabolism
+57	sulfur disproportionation	Metabolism	Energy metabolism
+58	sulfur dioxygenase	Metabolism	Energy metabolism
+59	sulfite dehydrogenase	Metabolism	Energy metabolism
+60	sulfite dehydrogenase (quinone)	Metabolism	Energy metabolism
+61	sulfide oxidation	Metabolism	Energy metabolism
+62	sulfur assimilation	Metabolism	Energy metabolism
+63	DMSP demethylation	Metabolism	Energy metabolism
+64	DMS dehydrogenase	Metabolism	Energy metabolism
+65	DMSO reductase	Metabolism	Energy metabolism
+66	NiFe hydrogenase	Metabolism	Energy metabolism
+67	ferredoxin hydrogenase	Metabolism	Energy metabolism
+68	membrane-bound hydrogenase	Metabolism	Energy metabolism
+69	hydrogen:quinone oxidoreductase	Metabolism	Energy metabolism
+70	NAD-reducing hydrogenase	Metabolism	Energy metabolism
+71	NADP-reducing hydrogenase	Metabolism	Energy metabolism
+72	NiFe hydrogenase Hyd-1	Metabolism	Energy metabolism
+73	thiamin biosynthesis	Metabolism	Cofactors and vitamins
+74	riboflavin biosynthesis	Metabolism	Cofactors and vitamins
+75	cobalamin biosynthesis	Metabolism	Cofactors and vitamins
+76	transporter: vitamin B12	Environmental Info Processing	Membrane transport
+77	transporter: thiamin	Environmental Info Processing	Membrane transport
+78	transporter: urea	Environmental Info Processing	Membrane transport
+79	transporter: phosphonate	Environmental Info Processing	Membrane transport
+80	transporter: phosphate	Environmental Info Processing	Membrane transport
+81	Flagellum	Cellular Processes	Cell motility
+82	Chemotaxis	Cellular Processes	Cell motility
+83	Methanogenesis via methanol	Metabolism	Energy metabolism
+84	Methanogenesis via acetate	Metabolism	Energy metabolism
+85	"Methanogenesis via dimethylsulfide, methanethiol, methylpropanoate"	Metabolism	Energy metabolism
+86	Methanogenesis via methylamine	Metabolism	Energy metabolism
+87	Methanogenesis via trimethylamine	Metabolism	Energy metabolism
+88	Methanogenesis via dimethylamine	Metabolism	Energy metabolism
+89	Methanogenesis via CO2	Metabolism	Energy metabolism
+90	Coenzyme B/Coenzyme M regeneration	Metabolism	Energy metabolism
+91	Coenzyme M reduction to methane	Metabolism	Energy metabolism
+92	Soluble methane monooxygenase	Metabolism	Energy metabolism
+93	methanol dehydrogenase	Metabolism	Energy metabolism
+94	alcohol oxidase	Metabolism	Energy metabolism
+95	dimethylamine/trimethylamine dehydrogenase	Metabolism	Energy metabolism
+96	Photosystem II	Metabolism	Energy metabolism
+97	Photosystem I	Metabolism	Energy metabolism
+98	Cytochrome b6/f complex	Metabolism	Energy metabolism
+99	anoxygenic type-II reaction center	Metabolism	Energy metabolism
+100	anoxygenic type-I reaction center	Metabolism	Energy metabolism
+101	Retinal biosynthesis	Metabolism	Energy metabolism
+102	Retinal from apo-carotenals	Metabolism	Energy metabolism
+103	Entner-Doudoroff Pathway	Metabolism	Carbohydrate metabolism
+104	Mixed acid: Lactate	Metabolism	Carbohydrate metabolism
+105	Mixed acid: Formate	Metabolism	Carbohydrate metabolism
+106	Mixed acid: Formate to CO2 & H2	Metabolism	Carbohydrate metabolism
+107	Mixed acid: Acetate	Metabolism	Carbohydrate metabolism
+108	"Mixed acid: Ethanol, Acetate to Acetylaldehyde"	Metabolism	Carbohydrate metabolism
+109	"Mixed acid: Ethanol, Acetyl-CoA to Acetylaldehyde (reversible)"	Metabolism	Carbohydrate metabolism
+110	"Mixed acid: Ethanol, Acetylaldehyde to Ethanol"	Metabolism	Carbohydrate metabolism
+111	"Mixed acid: PEP to Succinate via OAA, malate & fumarate"	Metabolism	Carbohydrate metabolism
+112	Naphthalene degradation to salicylate	Metabolism	Xenobiotics degradation
+113	Biofilm PGA Synthesis protein	Cellular Processes	Cellular community
+114	Colanic acid and Biofilm transcriptional regulator	Cellular Processes	Cellular community
+115	Biofilm regulator BssS	Cellular Processes	Cellular community
+116	Colanic acid and Biofilm protein A	Cellular Processes	Cellular community
+117	Curli fimbriae biosynthesis	Cellular Processes	Cellular community
+118	Adhesion	Cellular Processes	Cellular community
+119	Competence-related core components	Cellular Processes	Cellular community
+120	Competence-related related components	Cellular Processes	Cellular community
+121	Competence factors	Cellular Processes	Cellular community
+122	Glyoxylate shunt	Metabolism	Carbohydrate metabolism
+123	Anaplerotic genes	Metabolism	Carbohydrate metabolism
+124	Sulfolipid biosynthesis	Metabolism	Glycan biosynthesis
+125	C-P lyase cleavage PhnJ	Cellular Processes	Transport and catabolism
+126	CP-lyase complex	Cellular Processes	Transport and catabolism
+127	CP-lyase operon	Cellular Processes	Transport and catabolism
+128	Type I Secretion	Environmental Info Processing	Signal transduction
+129	Type III Secretion	Environmental Info Processing	Signal transduction
+130	Type II Secretion	Environmental Info Processing	Signal transduction
+131	Type IV Secretion	Environmental Info Processing	Signal transduction
+132	Type VI Secretion	Environmental Info Processing	Signal transduction
+133	Sec-SRP	Environmental Info Processing	Signal transduction
+134	Twin Arginine Targeting	Environmental Info Processing	Signal transduction
+135	Type Vabc Secretion	Environmental Info Processing	Signal transduction
+136	Serine pathway/formaldehyde assimilation	Metabolism	Amino acid metabolism
+137	Arsenic reduction	Organismal Systems	Environmental adaptation
+138	Cobalt transporter CbiMQ	Environmental Info Processing	Membrane transport
+139	Cobalt transporter CbtA	Environmental Info Processing	Membrane transport
+140	Cobalt transporter CorA	Environmental Info Processing	Membrane transport
+141	Nickel ABC-type substrate-binding NikA	Environmental Info Processing	Membrane transport
+142	Copper transporter CopA	Environmental Info Processing	Membrane transport
+143	Ferrous iron transporter FeoB	Environmental Info Processing	Membrane transport
+144	Ferric iron ABC-type substrate-binding AfuA	Environmental Info Processing	Membrane transport
+145	Fe-Mn transporter MntH	Environmental Info Processing	Membrane transport
+146	histidine	Metabolism	Amino acid metabolism
+147	arginine	Metabolism	Amino acid metabolism
+148	lysine	Metabolism	Amino acid metabolism
+149	serine	Metabolism	Amino acid metabolism
+150	threonine	Metabolism	Amino acid metabolism
+151	asparagine	Metabolism	Amino acid metabolism
+152	glutamine	Metabolism	Amino acid metabolism
+153	cysteine	Metabolism	Amino acid metabolism
+154	glycine	Metabolism	Amino acid metabolism
+155	proline	Metabolism	Amino acid metabolism
+156	alanine	Metabolism	Amino acid metabolism
+157	valine	Metabolism	Amino acid metabolism
+158	methionine	Metabolism	Amino acid metabolism
+159	phenylalanine	Metabolism	Amino acid metabolism
+160	isoleucine	Metabolism	Amino acid metabolism
+161	leucine	Metabolism	Amino acid metabolism
+162	tryptophan	Metabolism	Amino acid metabolism
+163	tyrosine	Metabolism	Amino acid metabolism
+164	aspartate	Metabolism	Amino acid metabolism
+165	glutamate	Metabolism	Amino acid metabolism
+166	PET degradation	Metabolism	Xenobiotics degradation
+167	starch/glycogen synthesis	Metabolism	Carbohydrate metabolism
+168	starch/glycogen degradation	Metabolism	Carbohydrate metabolism
+169	polyhydroxybutyrate synthesis	Metabolism	Secondary metabolites
+170	bidirectional polyphosphate	Metabolism	Secondary metabolites
+171	carotenoids backbone biosynthesis	Metabolism	Terpenoids and polyketides
+172	end-product astaxanthin	Metabolism	Terpenoids and polyketides
+173	end-product nostoxanthin	Metabolism	Terpenoids and polyketides
+174	end-product zeaxanthin diglucoside	Metabolism	Terpenoids and polyketides
+175	end-product myxoxanthophylls	Metabolism	Terpenoids and polyketides
+176	staphyloaxanthin biosynthesis	Metabolism	Terpenoids and polyketides
+177	mevalonate pathway	Metabolism	Terpenoids and polyketides
+178	MEP-DOXP pathway	Metabolism	Terpenoids and polyketides
